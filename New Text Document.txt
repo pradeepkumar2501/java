@@ -1,0 +1,25 @@
+class Call{
+	int add(){
+	return 2+2;
+	{
+	int sub(){
+	return 3-2;
+	}
+	int mul(){
+	return 3*2;
+	}
+	int div(){
+	return 2/2:
+	}
+}
+public class assignment1{
+	public static void main(String[] args){
+	Call obj=new Call();
+	System.out.println(obj.add());
+	System.out.println(obj.sub());
+	System.out.println(obj.mul());
+	System.out.println(obj.div());
+}
+}
+
+
